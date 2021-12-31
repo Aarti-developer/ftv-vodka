@@ -1,0 +1,731 @@
+/* ==========1440px breakpoint ==============*/
+@media (max-width: 1440px) {
+}
+
+/* ==========1366px breakpoint ==============*/
+@media (max-width: 1366px) {
+}
+
+/* ==========1200px breakpoint ==============*/
+@media (max-width: 1200px) {
+  .enquiry-form {
+    width: 90%;
+  }
+  .channel-sec-one {
+    width: 80%;
+  }
+  .channel-sec-one .channel-video-one {
+    width: 40%;
+  }
+  .channel-sec-one .channel-content-one {
+    width: 60%;
+  }
+  .channel-vodka-row {
+    transform: translate(0, 0%);
+  }
+  .channel-vodka-row-two {
+    transform: translate(0, -12%);
+  }
+}
+
+/* ==========1110px breakpoint ==============*/
+@media (max-width: 1110px) {
+}
+
+/* ==========1024px breakpoint ==============*/
+@media (max-width: 1024px) {
+  .kk-intro-sec {
+    width: 90%;
+  }
+}
+
+/* ==========992px breakpoint ==============*/
+@media (max-width: 992px) {
+  .potential-content {
+    width: 90%;
+  }
+  .vodka-intro-content {
+    width: 90%;
+  }
+  .video-overlap {
+    width: 90%;
+  }
+}
+
+/* ==========872px breakpoint ==============*/
+@media (max-width: 872px) {
+  .enquiry-form {
+    width: 100%;
+    clip-path: polygon(
+      20% 0%,
+      29% 0%,
+      80% 0%,
+      100% 30%,
+      50% 135%,
+      50% 135%,
+      0% 30%
+    );
+  }
+}
+
+/* ==========768px breakpoint ==============*/
+@media (max-width: 768px) {
+  .kk-intro-sec {
+    width: 100%;
+  }
+  .kk-intro-sec .kk-intro-content p {
+    font-size: 1.2rem;
+  }
+  .kk-intro-sec .kk-intro-content {
+    padding: 2%;
+  }
+  .philosophy-content .philosophy-content-items p {
+    font-size: 1.3rem;
+  }
+  .philosophy-content .philosophy-content-items h3 {
+    font-size: 2rem;
+  }
+  .philosophy-content .philosophy-content-items i {
+    font-size: 1.5rem;
+  }
+  .fashiontv-intro {
+    width: 90%;
+  }
+  .keyfact-content {
+    width: 75%;
+  }
+  .channel-sec-one {
+    width: 100%;
+    margin: auto;
+  }
+  .channel-sec-one .channel-video-one,
+  .channel-sec-one .channel-content-one {
+    width: 50%;
+  }
+  .ch-img {
+    margin: 0 0 0 auto;
+    width: 20%;
+  }
+  .channel-sec-one .channel-content-one h1,
+  .channel-content-two h1 {
+    font-size: 2.5rem;
+  }
+  .channel-sec-one .channel-content-one ul li,
+  .channel-content-two ul li {
+    font-size: 1.3rem;
+  }
+  .channel-vodka-text h1 {
+    font-size: 2.5rem;
+  }
+  .channel-vodka-row {
+    height: 300px;
+    margin: auto;
+  }
+  .present-images .present-image-two {
+    margin: 0 auto;
+    width: 65%;
+  }
+  .present-images {
+    text-align: center;
+  }
+  .video-overlap video {
+    height: 750px;
+  }
+  .video-overlap {
+    width: 100%;
+  }
+  .versatile-row .versatile-links ul li {
+    font-size: 1rem;
+  }
+  .versatile-content h1 {
+    font-size: 2.5rem;
+  }
+  .present-sec .present-sec-container .ftv-branding-two {
+    display: none;
+  }
+  .video-overlapping-section .text-overlap h2 {
+    display: none;
+  }
+  .reveal {
+    visibility:visible ;
+}
+}
+@media (max-width: 678px) {
+  .license-content {
+    width: 80%;
+  }
+}
+/* ==========576px breakpoint ==============*/
+@media (max-width: 576px) {
+  .video-sec #desktop {
+    display: none;
+  }
+  .video-sec #mobile {
+    display: block;
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    object-position: center;
+  }
+  .video-sec-two #desktop {
+    display: none;
+  }
+  .ftv-branding-one {
+    padding: 5.5rem 0 0 0;
+  }
+  .philosophy-section h1 {
+    font-size: 4rem;
+  }
+  .video-sec-two #mobile {
+    display: block;
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    object-position: center;
+  }
+  .footer-content .footer-links ul li {
+    text-align: center;
+  }
+  .footer-img-sec .footer-img img {
+    width: 42%;
+  }
+  .michel-intro h1 {
+    font-size: 2.5rem;
+  }
+  .michel-intro .michel-content h4 {
+    font-size: 1.5rem;
+  }
+  .michel-intro {
+    width: 90%;
+  }
+  .michel-intro .michel-content p {
+    font-size: 1.3rem;
+  }
+  .michel-video-sec {
+    padding: 5rem 0;
+  }
+  .michel-video {
+    width: 80%;
+  }
+  .kk-intro-sec {
+    flex-direction: column;
+    transform: translate(0, 0);
+  }
+  .kk-img-section .kk-img {
+    width: 90%;
+  }
+  .kk-intro-sec .kk-intro-content {
+    padding: 5%;
+  }
+  .philosophy-content .philosophy-content-items {
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  .philosophy-content .philosophy-content-items .philosophy-content-item-one {
+    width: 100%;
+    justify-content: start;
+  }
+  .philosophy-content .philosophy-content-items .philosophy-content-item-two {
+    width: 100%;
+  }
+  .philosophy-section {
+    padding: 5rem 0;
+  }
+  .potential-content {
+    transform: translate(0, -12%);
+  }
+  .keyfact-content {
+    width: 90%;
+    margin: auto;
+  }
+  .keyfact-content-one {
+    width: 90%;
+    margin: auto;
+  }
+  .keyfact-image {
+    width: 40%;
+    margin: auto;
+  }
+  .keyfact-image img {
+    transform: translate(0, 0);
+  }
+  .keyfact-section {
+    padding: 4rem 0;
+  }
+  .fashiontv-intro {
+    width: 100%;
+  }
+  .fashiontv-bottle-sec .fashiontv-bottle-container {
+    transform: translate(0, 0);
+  }
+  .channel-sec-one {
+    flex-direction: column;
+  }
+  .channel-sec-one .channel-video-one,
+  .channel-sec-one .channel-content-one {
+    width: 100%;
+  }
+  .channel-sec-one .channel-content-one {
+    padding: 5% 2% 5% 5%;
+  }
+  .channel-vodka-row-two {
+    transform: translate(0, 0);
+  }
+  .prospective-intro {
+    padding: 0;
+  }
+  .ftv-branding-img {
+    width: 85%;
+  }
+  .present-images {
+    margin-top: -12%;
+  }
+  .introduction-row {
+    display: flex;
+    flex-direction: column;
+  }
+  .introduction-content {
+    width: 100%;
+    padding: 5%;
+  }
+  .intoduction-image {
+    width: 100%;
+    text-align: center;
+  }
+  .versatile-row .versatile-links {
+    width: 100%;
+    border: 5px;
+    margin: auto;
+    background: rgba(248 78 9 / .3);
+  }
+  .versatile-row {
+    margin: 0;
+  }
+  .quality-img {
+    flex-direction: column;
+  }
+  .quality-img .image-q-div {
+    width: 100%;
+  }
+  .quality-img .image-q-div-one {
+    width: 100%;
+  }
+  .quality-img .image-q-div-one img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+  }
+  .versatile-container {
+    flex-direction: column;
+  }
+  .versatile-content {
+    padding: 5%;
+  }
+  .versatile-image {
+    width: 90%;
+    margin: auto;
+  }
+  .prerequisites-content h3 {
+    line-height: 1.5;
+  }
+  .versatile-image .v-img-bottle {
+    width: 40%;
+    /* animation: IT_animation_2 12s infinite linear alternate; */
+    transform: translate(70%, -140%);
+  }
+  .versatile-image .v-img-full-circle {
+    transform: translate(0, 55%);
+  }
+  .versatile-image .v-img-bottle {
+    transform: translate(70%, -92%);
+}
+
+.versatile-row .versatile-links ul li {
+    font-size: 1.1rem;
+  text-align: start;
+  direction: ltr;
+  list-style-position: inside;
+
+}
+}
+/* ==========540px breakpoint ==============*/
+@media (max-width: 540px) {
+}
+/* ==========425px breakpoint ==============*/
+@media (max-width: 425px) {
+  header a.logo img {
+    width: 70px;
+  }
+  .navbar-top-default {
+    width: 100%;
+  }
+  .vodka-text-heading h1 {
+    font-size: 4rem;
+  }
+  .lic-kit h1 {
+    font-size: 2rem;
+  }
+  .lic-kit a .kit-dwnld {
+    font-size: 1.4rem;
+  }
+  .license-content h2 {
+    font-size: 2rem;
+  }
+  .license-content h1 {
+    font-size: 2rem;
+  }
+  .licence-text h4 {
+    font-size: 1.4rem;
+  }
+  .brand-content p {
+    font-size: 1.3rem;
+  }
+  .enquire-now-section h2,
+  .enquire-now-section h1 {
+    font-size: 3rem;
+  }
+  .footer-content .footer-heading h2 {
+    font-size: 2.5rem;
+  }
+  .ftv-branding-img-three {
+    margin: auto;
+    width: 80%;
+  }
+  .michel-intro .michel-content {
+    width: 100%;
+  }
+  .michel-video video {
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+  }
+  .kk-img-section .kk-img img {
+    object-position: 65% 100%;
+  }
+  .vodka-intro-content h2 {
+    font-size: 2.5rem;
+  }
+  .vodka-intro-content {
+    width: 100%;
+  }
+  .vodka-intro-content p {
+    font-size: 1.3rem;
+  }
+  .potential-content p {
+    font-size: 1.3rem;
+  }
+  .potential-content {
+    transform: translate(0, -13%);
+    width: 100%;
+  }
+  .potential-section {
+    padding: 0 0 1rem 0;
+  }
+  .keyfact-content-one h1 br {
+    display: none;
+  }
+  .vodka-video {
+    width: 100%;
+    margin: auto;
+  }
+  .ftv-branding-img {
+    width: 90%;
+  }
+  .fashiontv-intro .fashiontv-content h4 {
+    font-size: 2rem;
+  }
+  .fashiontv-intro .fashiontv-content p {
+    text-align: start;
+  }
+  .accordion-item:hover {
+    transform: translate(3%, 0);
+  }
+
+  .prospective-intro h1 {
+    font-size: 2.5rem;
+  }
+  .ftv-branding-two {
+    padding: 4.5rem 0;
+  }
+  .prospective-sec {
+    padding: 2rem 0 7.5rem 0;
+  }
+  .introduction-content h1 {
+    font-size: 2.5rem;
+  }
+  .present-sec-container .present-image-abs-one {
+    display: none;
+  }
+  .present-sec .present-sec-container .ftv-branding-two {
+    display: none;
+  }
+  .present-images .present-image-two {
+    width: 85%;
+  }
+  .present-images {
+    margin-top: -15%;
+  }
+  .versatile-image .v-img-full-circle {
+    transform: translate(0, 48%);
+  }
+  .versatile-image .v-img-bottle {
+    transform: translate(70%, -98%);
+}
+.versatile-row {
+  padding: 25% 10%;
+}
+.video-overlapping-section .text-overlap h2 {
+  font-size: 2.5rem;
+}
+.video-overlapping-section .text-overlap {
+  left: 2%;
+}
+.carousel-inner {
+  width: 100%;
+}
+.carousel-item video {
+  object-fit: cover;
+  height: 500px;
+  object-position: center;
+}
+}
+/* ==========375px breakpoint ==============*/
+@media (max-width: 375px) {
+  .enquiry-form {
+    clip-path: polygon(
+      0% 0%,
+      0% 0%,
+      100% 0%,
+      100% 100%,
+      50% 100%,
+      50% 100%,
+      0% 100%
+    );
+  }
+  .enquiry-form .enquiry-width {
+    width: 100%;
+  }
+  .michel-intro .michel-content h4 {
+    line-height: 1.5;
+  }
+  .ftv-branding-img {
+    width: 90%;
+  }
+  .philosophy-section h1 {
+    font-size: 4rem;
+  }
+  .philosophy-section h2 {
+    font-size: 2.5rem;
+  }
+  .keyfact-content-one h1 br {
+    display: none;
+  }
+  .keyfact-content h1,
+  .keyfact-content-one h1 {
+    font-size: 2.5rem;
+  }
+  .prospective-intro h1 {
+    font-size: 2rem;
+  }
+  .prospective-intro p {
+    font-size: 1.3rem;
+  }
+  .accordion-button:not(.collapsed) {
+    font-size: 26px;
+  }
+  .accordion-body {
+    font-size: 1.3rem;
+  }
+  .channel-sec-one .channel-content-one ul li,
+  .channel-content-two ul li {
+    line-height: 1.5;
+  }
+  .channel-video-two video {
+    width: 100%;
+    object-fit: cover;
+    height: 600px;
+    object-position: center;
+  }
+  .prospective-intro {
+    padding: 2% 0;
+  }
+  .license-text h1::before {
+    width: 40px;
+    left: -30%;
+  }
+  .license-text h1::after {
+    width: 40px;
+    right: -30%;
+  }
+  .lic-fees-sec {
+    padding: 4rem 0;
+  }
+  .quality-sec h1 {
+    left: 10%;
+    font-size: 8.3vw;
+  }
+}
+
+/* ==========320px breakpoint ==============*/
+@media (max-width: 320px) {
+  .brand-content h1 {
+    line-height: 1.5;
+  }
+  .footer-social-links .social-circle {
+    height: 2rem;
+    line-height: 2rem;
+    width: 2rem;
+    margin-right: 0.5rem;
+  }
+  .enquire-now-section {
+    padding: 5rem 0;
+  }
+  .brand-content p {
+    font-size: 1.1rem;
+  }
+  .license-content {
+    width: 95%;
+  }
+  .michel-video {
+    width: 100%;
+    margin: auto;
+  }
+  .michel-video-sec {
+    padding: 1rem 0;
+    background: #000;
+  }
+  .vodka-intro-content-section h1 {
+    font-size: 3rem;
+  }
+  .vodka-intro-content h2 {
+    font-size: 2rem;
+  }
+  .vodka-intro-content p {
+    font-size: 1.2rem;
+  }
+  .potential-content p {
+    font-size: 1.2rem;
+  }
+  .ftv-branding-one {
+    padding: 0 0 0 0;
+  }
+  .keyfact-content-one p,
+  .keyfact-content p {
+    font-size: 1.2rem;
+  }
+  .fashiontv-intro .fashiontv-content p {
+    font-size: 1.2rem;
+  }
+  .ftv-branding-two {
+    padding: 5rem 0;
+  }
+  .fashiontv-bottle-sec .fashiontv-bottle-container {
+    width: 100%;
+  }
+  .channel-vodka-row {
+    height: 200px;
+  }
+  .channel-content-two {
+    padding: 2% 1% 2% 8%;
+  }
+  .prospective-intro h1 {
+    line-height: 1.5;
+  }
+  .prospective-sec {
+    padding: 4rem 0 5rem 0;
+  }
+  .accordion-button {
+    font-size: 1.6rem;
+  }
+  .prerequisites-content h3 {
+    font-size: 1.5rem;
+  }
+  .prerequisites-content h2 {
+    font-size: 2rem;
+  }
+  .present-images {
+    margin-top: -18%;
+}
+.present-images .present-image-two {
+  width: 100%;
+}
+.introduction-content h1 {
+  font-size: 2rem;
+}
+
+}
+
+/* ==========280px breakpoint ==============*/
+@media (max-width: 280px) {
+  .footer {
+    padding: 3rem 0;
+  }
+  .vodka-text-heading h1 {
+    font-size: 3.5rem;
+  }
+  .license-content h2 {
+    font-size: 1.5rem;
+  }
+  .license-content h1 {
+    font-size: 1.5rem;
+  }
+  .ftv-branding-img {
+    width: 95%;
+    margin: auto;
+  }
+  .michel-intro h1 {
+    font-size: 2rem;
+  }
+  .michel-intro {
+    width: 100%;
+    margin: auto;
+  }
+  .michel-intro .michel-content h4 {
+    font-size: 1.3rem;
+  }
+  .michel-intro .michel-content p {
+    font-size: 1.2rem;
+  }
+  .kk-img-section .kk-img {
+    width: 100%;
+  }
+  .vodka-intro-content h2 {
+    font-size: 1.7rem;
+  }
+  .potential-content {
+    transform: translate(0, -7%);
+  }
+  .potential-content h2 {
+    font-size: 2rem;
+  }
+  .philosophy-section h2 {
+    font-size: 2rem;
+  }
+  .philosophy-content .philosophy-content-items h3 {
+    font-size: 1.8rem;
+    padding: 0 0;
+  }
+  .philosophy-content .philosophy-content-items .philosophy-content-item-two {
+    padding: 0;
+  }
+  .philosophy-content .philosophy-content-items p {
+    font-size: 1.2rem;
+  }
+  header a.logo img {
+    width: 60px;
+  }
+  .channel-content-two {
+    padding: 5% 1% 5% 8%;
+  }
+  .channel-sec-one .channel-content-one h1,
+  .channel-content-two h1 {
+    line-height: 1;
+  }
+  .channel-sec-one .channel-content-one {
+    padding: 5% 2% 5% 9%;
+  }
+  .introduction-content h1 {
+    font-size: 1.8rem;
+}
+}
